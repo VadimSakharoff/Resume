@@ -11,6 +11,7 @@ Hi, my name is Vadim Sakharov ( *Discord:* ***VadimSakharoff#1721*** ). I am 44 
 - installing nodes at the testnet stages of projects
 - participation in ambassador programs
 - venture investment in crypto startups
+- creating handmade jewelry merch for crypto projects
 - learning English (native Russian)
 
 
@@ -28,6 +29,16 @@ Hi, my name is Vadim Sakharov ( *Discord:* ***VadimSakharoff#1721*** ). I am 44 
 - [Decentralized Joint Ventures InvArch](https://vadimsakharoff.medium.com/%D0%B4%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-invarch-77e1a9b96444)
 - [InvArch`s Intellectual Property Ownership in jewerly business](https://vadimsakharoff.medium.com/invarch-s-intellectual-property-ownership-in-jewerly-bisiness-693c2fc5512d)
 - [InvArch’s Intellectual Property Sets in the jewelry business](https://vadimsakharoff.medium.com/invarchs-intellectual-property-sets-in-the-jewelry-business-ebda66710e24)
+
+ ***Goldfinch***
+ https://goldfinch.finance/ <br>
+ My status on 20.07.2022 is **Participant**
+- [Goldfinch is an innovative credit platform for lending without collateral](https://vadimsakharoff.medium.com/goldfinch-is-an-innovative-credit-platform-for-lending-without-collateral-4f9fee0da99a)
+- [Goldfinch is an unique credit protocol](https://twitter.com/VadimSakharoff/status/1441771677764005889?s=20&t=PZB7Icekpw06CJkaVLakQw)
+- [Loan granting structure of Goldfinch](https://twitter.com/VadimSakharoff/status/1441771683736539156?s=20&t=PZB7Icekpw06CJkaVLakQw)
+- [Goldfinch has a very high income APY](https://twitter.com/VadimSakharoff/status/1441771689365291014?s=20&t=PZB7Icekpw06CJkaVLakQw)
+- [Partnerships of Goldfinch Protocol](https://twitter.com/VadimSakharoff/status/1441771696071987215?s=20&t=PZB7Icekpw06CJkaVLakQw)
+- [Goldfinch is recruiting for Flight Academy](https://twitter.com/VadimSakharoff/status/1441771701805764612?s=20&t=PZB7Icekpw06CJkaVLakQw)
 
  ***Moonbeam***
  https://moonbeam.network/ <br>
