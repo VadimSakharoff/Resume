@@ -1,6 +1,7 @@
 # Resume
 Hi, my name is Vadim Sakharov (Discord: VadimSakharoff#1721). I am 44 years old, joined the crypto industry in 2017. I am compiling this resume for a full-time job search in the crypto industry.
-![Иллюстрация к проекту](https://github.com/VadimSakharoff/Resume/blob/main/Logo.jpg)
+
+![Its me](https://github.com/VadimSakharoff/Resume/blob/main/DiscordLogo.jpg)
 
 My social:
 - [**Email**: vadimsakharoff@gmail.com](mailto:vadimsakharoff@gmail.com)
