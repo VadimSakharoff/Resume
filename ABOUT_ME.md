@@ -27,6 +27,7 @@ Hi, my name is Vadim Sakharov ( *Discord:* ***VadimSakharoff#1721*** ). I am 44 
 - [Stacking mechanisms In vAr chIPSets](https://vadimsakharoff.medium.com/%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B-%D1%81%D1%82%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3%D0%B0-invarch-ip-sets-84e58018a7f3)
 - [Decentralized Joint Ventures InvArch](https://vadimsakharoff.medium.com/%D0%B4%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-invarch-77e1a9b96444)
 - [InvArch`s Intellectual Property Ownership in jewerly business](https://vadimsakharoff.medium.com/invarch-s-intellectual-property-ownership-in-jewerly-bisiness-693c2fc5512d)
+- [InvArch’s Intellectual Property Sets in the jewelry business](https://vadimsakharoff.medium.com/invarchs-intellectual-property-sets-in-the-jewelry-business-ebda66710e24)
 
  ***Moonbeam***
  https://moonbeam.network/ <br>
