@@ -17,14 +17,11 @@ Hi, my name is Vadim Sakharov ( *Discord:* ***VadimSakharoff#1721*** ). I am 44 
 
  ***Moonbeam***
  https://moonbeam.network/ <br>
- My status on 07/20/2022 is **Ambassador**
-- [How add Moonbeam chain in Metamask guide](https://medium.com/@voronxr/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%81%D0%B5%D1%82%D0%B8-moonbeam-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B9-metamask-243dac8578cc)
-- [Video guide how add Moonbeam chain in Metamask](https://www.youtube.com/watch?v=l3Daz6FjmWk)
-- [How contribute in Moonbeam parachain video](https://www.youtube.com/watch?v=pdvT2lsY-58)
-- [Get crowdloan GLMR token video](https://www.youtube.com/watch?v=plMFFVSsSME)
-- [Moonbeam ambassador programm video](https://www.youtube.com/watch?v=7bpjxG4TPcM)
-- [Video project overview of Moonbeam ](https://www.youtube.com/watch?v=59Y-n1PgSMA)
-- [Moonbeam network expansion and new partnerships video](https://www.youtube.com/watch?v=G2WJuGfM2ms)
+ My status on 20.07.2022 is **Ambassador**
+- [Moonbeam.network launch on 11.01.2022](https://twitter.com/VadimSakharoff/status/1480553816298770433?s=20&t=DUuog3dhoqapHLeKYRe2xg)
+- [Moonbeam- the easiest path to multi-chain](https://twitter.com/VadimSakharoff/status/1478385429837668354?s=20&t=gjtCPH1FvTr1n8SlMgNu3Q)
+- [Frax Finance cooperating with Moonbeam (my old medium account)](https://vadim777.medium.com/%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-moonbeam-%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D1%8F%D0%B5%D1%82-frax-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D1%80%D0%B0%D1%81%D1%82%D1%83%D1%89%D0%B5%D0%B9-%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B5-polkadot-8d5ade2b579)
+- [Making jewelry for the Ambassadors competition](https://twitter.com/VadimSakharoff/status/1399383571593318403?s=20&t=qhWMKR2s-KrhyXJAoNsrDQ)
 
 -------------------------------------------
 ***My social:***
