@@ -22,8 +22,11 @@ Hi, my name is Vadim Sakharov ( *Discord:* ***VadimSakharoff#1721*** ). I am 44 
 - [Tinker-test network of InvArch](https://vadimsakharoff.medium.com/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-tinker-17234e476f7a)
 - [Ambassador Program of InvArch](https://vadimsakharoff.medium.com/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D0%B0%D0%BC%D0%B1%D0%B0%D1%81%D1%81%D0%B0%D0%B4%D0%BE%D1%80%D0%BE%D0%B2-invarch-77735015f20c)
 - [IP Modules of InvArch](https://vadimsakharoff.medium.com/ip-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8-invarch-c84f56cba5df)
-- [The structure of the InvArch controls.](https://vadimsakharoff.medium.com/%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-invarch-f673f0463b4f)
+- [The structure of the InvArch controls](https://vadimsakharoff.medium.com/%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-invarch-f673f0463b4f)
 - [IP SETs rental is a proposal for the development of the InvArch project](https://vadimsakharoff.medium.com/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-ip-sets-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8E-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-invarch-d52e750fcbf8)
+- [Stacking mechanisms In vAr chIPSets](https://vadimsakharoff.medium.com/%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B-%D1%81%D1%82%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3%D0%B0-invarch-ip-sets-84e58018a7f3)
+- [Decentralized Joint Ventures InvArch](https://vadimsakharoff.medium.com/%D0%B4%D0%B5%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F-invarch-77e1a9b96444)
+- [InvArch`s Intellectual Property Ownership in jewerly business](https://vadimsakharoff.medium.com/invarch-s-intellectual-property-ownership-in-jewerly-bisiness-693c2fc5512d)
 
  ***Moonbeam***
  https://moonbeam.network/ <br>
