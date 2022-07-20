@@ -5,7 +5,9 @@ Hi, my name is Vadim Sakharov ( *Discord:* ***VadimSakharoff#1721*** ). I am 44 
 
 ***My activities:***
 - writing review articles
-- developing crypto communities
+- making proposals for the development of projects
+- attracting new members to the crypto community
+- moderation of discord servers
 - installing nodes at the testnet stages of projects
 - participation in ambassador programs
 - venture investment in crypto startups
