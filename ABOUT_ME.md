@@ -35,12 +35,21 @@ I am very interested in working in the crypto project team on a permanent basis,
  ***Goldfinch***
  https://goldfinch.finance/ <br>
  My status on 20.07.2022 is **Participant**
-- [Goldfinch is an innovative credit platform for lending without collateral](https://vadimsakharoff.medium.com/goldfinch-is-an-innovative-credit-platform-for-lending-without-collateral-4f9fee0da99a)
+- [Goldfinch is an innovative credit platform for lending without collateral](https://app.subsocial.network/5369/deczentralizovannye-sovmestnye-predpriyatiya-inv-arch-30559)
 - [Goldfinch is an unique credit protocol](https://twitter.com/VadimSakharoff/status/1441771677764005889?s=20&t=PZB7Icekpw06CJkaVLakQw)
 - [Loan granting structure of Goldfinch](https://twitter.com/VadimSakharoff/status/1441771683736539156?s=20&t=PZB7Icekpw06CJkaVLakQw)
 - [Goldfinch has a very high income APY](https://twitter.com/VadimSakharoff/status/1441771689365291014?s=20&t=PZB7Icekpw06CJkaVLakQw)
 - [Partnerships of Goldfinch Protocol](https://twitter.com/VadimSakharoff/status/1441771696071987215?s=20&t=PZB7Icekpw06CJkaVLakQw)
 - [Goldfinch is recruiting for Flight Academy](https://twitter.com/VadimSakharoff/status/1441771701805764612?s=20&t=PZB7Icekpw06CJkaVLakQw)
+
+***Subsocial***
+ [https://app.subsocial.network/](https://app.subsocial.network/)<br>
+ My status on 20.07.2022 is **Early Member**
+- [Decentralized Joint Ventures InvArch](https://app.subsocial.network/5369/deczentralizovannye-sovmestnye-predpriyatiya-inv-arch-30559)
+- [Sub.id- more than explorer](https://app.subsocial.network/5369/sub-id-bolshe-chem-eksplorer-26412)
+- [SubQuery- decentralized data](https://app.subsocial.network/5369/subquery-deczentralizovannye-dannye-dlya-sistemy-polkadot-22457)
+- [Subsocial better than Twitter](https://app.subsocial.network/5369/preimushhestva-subsocial-pered-twitter-i-reddit-21395)
+- [InvArch IP Sets](https://app.subsocial.network/5369/inv-arch-s-intellectual-property-sets-in-the-jewelry-business-21389)
 
  ***Moonbeam***
  https://moonbeam.network/ <br>
